@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+    
+.card{
+background-color: white;
+width:270px ;
+height:550px ;
+border-radius: 8px;
+}
+.image{
+padding: 5px;
+border-radius: 8px;
+}
+.image img{
+border-radius: 8px;
+height: 199px;
+width:258px;
+}
+.content{
+padding: 8px;
+}
+.cap{
+padding: 0 34px;
+}
+.cap span{
+border: 2px solid grey;
+padding: 4px;
+border-radius: 8px;
+
+}
+.button{
+text-align: center;
+}
+.button button{
+padding: 4px 7px;
+border-radius: 8px;
+border: none;
+background-color: rgb(160, 160, 205);
+color: blue;
+
+}
+}
